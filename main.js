@@ -1,1 +1,1 @@
-import Hello from './app/hello.js';
+import Hello from './app/components/hello.js';

@@ -10,6 +10,7 @@ export default class TextField extends React.Component {
 
   render() {
     const value = this.props.data;
+    console.log('value', value);
     // const error = this.props.error.deref();
     const readOnly = this.props.readOnly;
     const maxLength = this.props.maxLength || 250;

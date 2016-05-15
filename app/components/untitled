@@ -1,0 +1,9 @@
+// Likes : <span>{this.state.likesCount}</span>
+       		 	// <div><button onClick={this.onLike}>Like Me</button></div>
+    		<World handleChange={this.onChange} value={this.state.value}/> 
+
+
+    		// import Bootstrap from 'bootstrap/dist/css/bootstrap.min.css';
+
+// import { Button } from 'react-bootstrap';
+    		// <Button> add User </Button>

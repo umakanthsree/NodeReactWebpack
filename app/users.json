@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Umakanth",
+    "password": "password1",
+    "profession": "ReactROR",
+    "id": 1
+  },
+  {
+    "name": "Gourav",
+    "password": "password3",
+    "profession": "ROR",
+    "id": 2
+  }
+]
+
